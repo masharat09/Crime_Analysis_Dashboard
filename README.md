@@ -89,3 +89,11 @@ https://drive.google.com/file/d/17P9VRQoxfUnof4IYKWLt2pdbmPWpaVg6/view?usp=drive
     ✔ Resolution Rate Monitoring
     ✔ Dynamic Filtering & Drill-Down Analysis
 
+Contact :-
+      Masharat Mujavar
+      Aspiring Data Analyst
+      Skilled in Power BI, SQL, Excel, Python
+      Linkedin Profile - www.linkedin.com/in/masharat-mujavar-analytics
+      Gmail Id - masaratmujavar09@gmail.com
+
+
